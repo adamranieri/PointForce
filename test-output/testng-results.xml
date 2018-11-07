@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2769" started-at="2018-11-07T19:22:36Z" finished-at="2018-11-07T19:22:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2769" started-at="2018-11-07T19:22:36Z" finished-at="2018-11-07T19:22:39Z">
+      <class name="serviceTesting.BatchTesting">
+        <test-method status="PASS" signature="createBatch()[pri:1, instance:serviceTesting.BatchTesting@29774679]" name="createBatch" duration-ms="2512" started-at="2018-11-07T14:22:36Z" finished-at="2018-11-07T14:22:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBatch -->
+        <test-method status="PASS" signature="getAllBatches()[pri:2, instance:serviceTesting.BatchTesting@29774679]" name="getAllBatches" duration-ms="124" started-at="2018-11-07T14:22:38Z" finished-at="2018-11-07T14:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllBatches -->
+        <test-method status="PASS" signature="updateBatch()[pri:3, instance:serviceTesting.BatchTesting@29774679]" name="updateBatch" duration-ms="120" started-at="2018-11-07T14:22:39Z" finished-at="2018-11-07T14:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBatch -->
+      </class> <!-- serviceTesting.BatchTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
